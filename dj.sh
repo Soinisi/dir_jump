@@ -1,2 +1,2 @@
 #!/bin/bash
-cd $(python /home/simo/projects/python/dir_jump/dj.py $1)
+cd $(python /home/simo/projects/python/dir_jump/dj.py "$@")
